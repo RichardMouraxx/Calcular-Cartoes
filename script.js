@@ -43,8 +43,8 @@ function Calcular() {
     let total = a4 + soma
 
     // Imprime o texto com os valores no HTML
-    res1.innerHTML = 'O Total dos cartões é de: R$ ' + somaCartao
-    res2.innerHTML = 'O dinheiro total que você tem é: R$ ' + soma
+    res1.innerHTML = 'O Total dos cartões é de: R$ ' + somaCartao.toFixed(2)
+    res2.innerHTML = 'O dinheiro total que você tem é: R$ ' + soma.toFixed(2)
     res3.innerHTML = ' '
     res4.innerHTML = ' '
 
