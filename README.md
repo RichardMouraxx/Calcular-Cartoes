@@ -1,4 +1,4 @@
-# Calcular-Cartoes
+# Calcular Cartões
 Fiz um pequeno código pessoal, para me ajudar nos calculos das minhas contas e cartões, ele faz o calculo de valores passado e retorna se sobra ou se deve.
 <br> Tecnologias usadas: HTML5/ CSS3/ JavaScript puro. 
 
